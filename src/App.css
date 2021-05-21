@@ -1,0 +1,33 @@
+.todo-list-item {
+    position: relative;
+    border: 1px solid #d8d8d8;
+    margin: 10px 0;
+    list-style: none;
+    padding: 10px 5px;
+    width: 800px;
+    cursor: pointer;
+}
+
+.todo-list-item-div {
+    position: relative;
+    display: flex;
+}
+
+.btn {
+    width: 200px;
+    height: 200px;
+    margin: 0 10px;
+    background-color: white;
+    border-radius: 7px;
+}
+.btn-1 {
+    border: 3px solid #652eff;
+    box-shadow: 0 0px 0 6px #eee6ff;
+}
+.btn-2 {
+    border: 1px solid #652eff;
+    box-shadow: 0 0px 0 6px #eee6ff;
+}
+.btn-3 {
+    border: 3px solid #ececec;
+}
